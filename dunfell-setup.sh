@@ -81,7 +81,7 @@ CURRENT_DIR=`pwd`
 echo $CURRENT_DIR
 
 if [ $# -ne 0 ] ; then
-	echo "Usage: ./setup-dunfell.sh"
+	echo "Usage: ./dunfell-setup.sh"
 	exit 1
 fi
 

@@ -8,7 +8,7 @@ https://jumpnowtek.com/beaglebone/BeagleBone-Systems-with-Yocto.html
 
 ### The bash script, customized for the owner's projects purposes (substitutions for the KAS tool)
 
-https://github.com/ZoranStojsavljevic/bbb-yocto/blob/master/dunfell-setup.sh
+https://github.com/ZoranStojsavljevic/bbb-yocto/blob/dunfell/dunfell-setup.sh
 
 	Step [1]: Look into the script and customize it for your own project;
 	Step [2]: Make the script dunfell-setup.sh executable (permissions 755), and execute it: ./dunfell-setup.sh ;
